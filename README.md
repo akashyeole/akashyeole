@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashyeole&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=My Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashyeole&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&custom_title=Languages Used" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=akashyeole&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashyeole&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&custom_title=Languages%20Used" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=akashyeole&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akashyeole.akashyeole&left_color=darkslategrey&left_text=Profile Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akashyeole.akashyeole&left_color=darkslategrey&left_text=Profile%20Views"  />
 </div>
 
 ###
